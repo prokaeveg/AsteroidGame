@@ -1,0 +1,21 @@
+{
+    "name": "Spawner",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a7cd2e8ecda48084e9079152bf782d9b",
+        "GUID:b93f844d45cfcc44fa2b0eed5c9ec6bb"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
